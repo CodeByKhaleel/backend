@@ -1,0 +1,17 @@
+{
+  "name": "backend-javascript",
+  "version": "1.0.0",
+  "description": "learning backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "mohammed khaleelullah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
